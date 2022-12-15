@@ -14,7 +14,7 @@
 &nbsp;
 ## Используемые языки, технологии, пакеты:
 -	React JS (Hooks), HTML, SCSS
-- Create-react-app, icons-material, material ui 
+- Create-react-app, icons-material, material UI 
 
 &nbsp;
 ## Реализация функционала и логики
